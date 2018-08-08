@@ -12,5 +12,5 @@ class Course
   def self.all
     COURSES
   end
-  
+
 end
